@@ -119,7 +119,8 @@ The Question Setting Platform is a full-stack application designed to streamline
 
 
 ## Data Flow Diagram (DFD)  
-![dfd png](https://github.com/user-attachments/assets/ea63ca08-2fda-4de8-8483-c5c15edfef4c)
+![dfd png](https://github.com/user-attachments/assets/b54ca9d4-a1d8-4019-acfb-4b50d8d1f36b)
+
  
 
 ---
