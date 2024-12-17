@@ -115,10 +115,10 @@ The Question Setting Platform is a full-stack application designed to streamline
 ---
 
 ## Entity-Relationship Diagram (ERD)  
-- Represents relationships between entities like Users, Questions, Reviews, and Feedback.  
+![ERD Diagram](erd.png)
 
 ## Data Flow Diagram (DFD)  
-- Illustrates how data flows between educators, reviewers, and admins within the platform.  
+![DFD Diagram](dfd.png)  
 
 ---
 
