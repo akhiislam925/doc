@@ -115,7 +115,8 @@ The Question Setting Platform is a full-stack application designed to streamline
 ---
 
 ## Entity-Relationship Diagram (ERD)  
-![ERD Diagram](erd.png)
+![erd png](https://github.com/user-attachments/assets/c40264d4-cba5-4bcc-8118-a790394dc0ef)
+
 
 ## Data Flow Diagram (DFD)  
 ![DFD Diagram](dfd.png)  
